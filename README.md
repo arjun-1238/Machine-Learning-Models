@@ -11,4 +11,5 @@ In machine learning, problems are generally categorized into two main types:
 * K-Nearest Neighbors (KNN)
 * Decision Tree
 * Random Forest
+* Naive Bayes
 
