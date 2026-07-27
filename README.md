@@ -12,4 +12,5 @@ In machine learning, problems are generally categorized into two main types:
 * Decision Tree
 * Random Forest
 * Naive Bayes
+* SVM
 
